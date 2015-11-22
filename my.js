@@ -1,1 +1,1 @@
-bhhjbkkjhjk
+alert(1);
